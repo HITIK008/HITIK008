@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hitik Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">As a full-stack software engineer and entrepreneur, I possess expertise in developing large-scale web applications and backend systems. I am proficient in various programming languages, frameworks, and technologies. I am driven and enthusiastic about programming, from designing system architecture to exploring frameworks in depth and solving complex problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitik008&label=Profile%20views&color=0e75b6&style=flat" alt="hitik008" /> </p>
+
+- 🔭 I’m currently working on [CodeName](http://localhost:5173/)
 
 - 🌱 I’m currently learning **Docker, AI/ML, DSA**
 
 - 👨‍💻 All of my projects are available at [https://shoping-women.onrender.com/](https://shoping-women.onrender.com/)
 
+- 📝 Linkedin profile [https://www.linkedin.com/in/hitik-patel-55aa40245/](https://www.linkedin.com/in/hitik-patel-55aa40245/)
+
 - 💬 Ask me about **react, c, c++, java**
 
 - 📫 How to reach me **hitikpatel13@gmail.com**
 
-- 📄 Know about my experiences [file:///Users/hitik/Desktop/22BCE526_Hitik_Patel.pdf](file:///Users/hitik/Desktop/22BCE526_Hitik_Patel.pdf)
-
-- ⚡ Fun fact **In my spare time, I am mostly adding new skills to effect my knowledge**
+- 📄 Know about my experiences [https://shoping-women.onrender.com/](https://shoping-women.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
