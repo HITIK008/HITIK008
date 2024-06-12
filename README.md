@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitik008&label=Profile%20views&color=0e75b6&style=flat" alt="hitik008" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitik008" alt="hitik008" /></a> </p>
-
 - 🌱 I’m currently learning **Docker, AI/ML, DSA**
 
 - 👨‍💻 All of my projects are available at [https://shoping-women.onrender.com/](https://shoping-women.onrender.com/)
