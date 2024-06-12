@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitik Patel</h1>
-As a full-stack software engineer and entrepreneur, I possess expertise in developing large-scale web applications and backend systems. I am proficient in various programming languages, frameworks, and technologies. I am driven and enthusiastic about programming, from designing system architecture to exploring frameworks in depth and solving complex problems.
+<h3 align="center">As a full-stack software engineer and entrepreneur, I possess expertise in developing large-scale web applications and backend systems. I am proficient in various programming languages, frameworks, and technologies. I am driven and enthusiastic about programming, from designing system architecture to exploring frameworks in depth and solving complex problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitik008&label=Profile%20views&color=0e75b6&style=flat" alt="hitik008" /> </p>
 
@@ -7,7 +7,7 @@ As a full-stack software engineer and entrepreneur, I possess expertise in devel
 
 - 🌱 I’m currently learning **Docker, AI/ML, DSA**
 
-- 👨‍💻 All of my projects are available at [https://shoping-women.onrender.com/](https://shoping-women.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://myportfolio-8jyw.onrender.com/](https://myportfolio-8jyw.onrender.com/)
 
 - 📝 Linkedin profile [https://www.linkedin.com/in/hitik-patel-55aa40245/](https://www.linkedin.com/in/hitik-patel-55aa40245/)
 
@@ -15,10 +15,11 @@ As a full-stack software engineer and entrepreneur, I possess expertise in devel
 
 - 📫 How to reach me **hitikpatel13@gmail.com**
 
-- 📄 Know about my experiences [https://shoping-women.onrender.com/](https://shoping-women.onrender.com/)
+- 📄 Know about my experiences [https://i.ibb.co/sCvxN2H/22-BCE526-Hitik-Patel.jpg](https://i.ibb.co/sCvxN2H/22-BCE526-Hitik-Patel.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/hitik patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitik patel" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hitik008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hitik008" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hitik008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hitik008" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hitik008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hitik008" height="30" width="40" /></a>
