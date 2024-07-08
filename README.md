@@ -15,7 +15,7 @@ As a full-stack software engineer and entrepreneur, I possess expertise in devel
 
 - 📫 How to reach me **hitikpatel13@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://i.ibb.co/Nxn2KtV/22bce526-Hitik-Patel.jpg](https://d8it4huxumps7.cloudfront.net/uploads/attachements/user-resumes/668c23a52e807_22bce526_HitikPatel.pdf)
+- 📄 Know about my experiences [[My Resume](https://d8it4huxumps7.cloudfront.net/uploads/attachements/user-resumes/668c23a52e807_22bce526_HitikPatel.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
