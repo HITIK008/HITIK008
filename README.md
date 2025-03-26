@@ -3,7 +3,6 @@ As a full-stack software engineer and entrepreneur, I possess expertise in devel
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitik008&label=Profile%20views&color=0e75b6&style=flat" alt="hitik008" /> </p>
 
-- 🔭 I’m currently working on [CodeName](http://localhost:5173/)
 
 - 🌱 I’m currently learning **Docker, AI/ML, DSA**
 
