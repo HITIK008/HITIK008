@@ -4,9 +4,7 @@ As a full-stack software engineer and entrepreneur, I possess expertise in devel
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitik008&label=Profile%20views&color=0e75b6&style=flat" alt="hitik008" /> </p>
 
 
-- 🌱 I’m currently learning **Docker, AI/ML, DSA**
-
-- 👨‍💻 All of my projects are available at [https://myportfolio-8jyw.onrender.com/](https://myportfolio-8jyw.onrender.com/)
+- 🌱 I’m currently learning **Docker, AI/ML, DSA, Web Development**
 
 - 📝 Linkedin profile [https://www.linkedin.com/in/hitik-patel-55aa40245/](https://www.linkedin.com/in/hitik-patel-55aa40245/)
 
