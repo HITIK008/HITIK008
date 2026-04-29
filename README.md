@@ -47,8 +47,7 @@ I am a passionate Full-Stack Software Engineer with expertise in designing syste
 ### 🚀 Featured Projects
 
 * **[INeedStorage](https://ineedstorages.com)** - A scalable cloud storage platform built with React, Node.js, MongoDB Atlas, and Cloudflare R2 object storage. Features secure file sharing, custom expiries, and subscription management.
-* **[Project 2 Name] (#)** - Brief 1-sentence description of what it does and the tech stack used.
-* **[Project 3 Name] (#)** - Brief 1-sentence description of what it does and the tech stack used.
+
 
 ---
 
